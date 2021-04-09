@@ -4,7 +4,7 @@
 <b>💡 @yunjenius</b>
 &nbsp;&nbsp;
 <a href="mailto:whyj97@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=whyj97@naver.com"/></a>
-<a href=""><img src="https://img.shields.io/badge/TechBlog-03C75A?style=flat&logo=Bloglovin&logoColor=white&link="/></a>
+<!--<a href=""><img src="https://img.shields.io/badge/TechBlog-03C75A?style=flat&logo=Bloglovin&logoColor=white&link="/></a>-->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjenius&count_bg=%23F08080&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
 <!--#[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjenius&count_bg=%23F08080&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)-->
 </p>
@@ -25,7 +25,7 @@
 <br>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunjenius&show_icons=true&count_private=true" />
-</a>
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjenius&show_icons=true&count_private=true)-->
+</a>-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjenius&show_icons=true&count_private=true)
