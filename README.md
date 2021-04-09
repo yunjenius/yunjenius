@@ -28,4 +28,4 @@
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunjenius&show_icons=true&count_private=true" />
 </a>-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjenius&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yunjenius&show_icons=true&count_private=true)
